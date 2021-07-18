@@ -35,6 +35,15 @@ const Header = () => {
                             <p>10452</p>
                         </a>
                     </div>
+                    
+                    <div class="vrc_teams">
+                        <a href=".">
+                            <p>7684a</p>
+                        </a>
+                        <a href=".">
+                            <p>10452A</p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
