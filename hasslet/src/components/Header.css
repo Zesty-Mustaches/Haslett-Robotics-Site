@@ -14,9 +14,6 @@
     text-decoration: none;
 }
 
-.button{
-    border: none;
-}
 .header_center{
     flex: 1;
     display: flex;
@@ -28,6 +25,8 @@ h2{
 button{
     margin: 10px;
     text-transform: uppercase;
+    border: none;
+    background-color: transparent;
 }
 
 a{
