@@ -4,8 +4,10 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className = 'header'>
-            <div className = 'header_logo'>
+            <div className = 'header'>
+                <div className="left">
+                <h2>Haslett</h2>
+                </div>
                 <div className="header_center">
                     <button class="about_teams">
                         Teams
@@ -13,7 +15,7 @@ const Header = () => {
                     </button>
                     <div class = "about_teams_content">
                         <button class="vrc_teams">
-                            VRC Teams
+                            <p>VRC Teams</p>
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <button class="iq_team">
@@ -44,9 +46,16 @@ const Header = () => {
                             <p>10452A</p>
                         </a>
                     </div>
+
+                    <div class ="concact">
+                        <button class="concat_btn">
+                            <a href=".">
+                                <p> Concat </p>
+                            </a>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
     )
 }
 

@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    background-color: black;
+    background: none;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    margin: 15px;
+    margin-top: 15px;
+    z-index: 100;
+}
+
+.header a{
+    text-decoration: none;
+}
+
+.button{
+    border: none;
+}
+.header_center{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-transform: uppercase;
+}
+button{
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+a{
+    text-transform: uppercase;
+}
