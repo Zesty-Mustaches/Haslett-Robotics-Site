@@ -9,17 +9,18 @@ const Header = () => {
                 <h2>Haslett</h2>
                 </div>
                 <div className="header_center">
+                    <div class="drop_down">
                     <button class="about_teams">
-                        Teams
+                        <p>Teams</p>
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class = "about_teams_content">
-                        <button class="vrc_teams">
+                        <button class="vrc_teams_all">
                             <p>VRC Teams</p>
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <button class="iq_team">
-                            IQ Teams
+                            <p>IQ Teams</p>
                             <i class="fa fa-caret-down"></i>
                         </button>
                     </div>
@@ -46,11 +47,18 @@ const Header = () => {
                             <p>10452A</p>
                         </a>
                     </div>
-
+                    </div>
                     <div class ="concact">
                         <button class="concat_btn">
                             <a href=".">
                                 <p> Concat </p>
+                            </a>
+                        </button>
+                    </div>
+                    <div class="join">
+                        <button class="join">
+                            <a href=".">
+                                <p>Join</p>
                             </a>
                         </button>
                     </div>

@@ -32,3 +32,23 @@ button{
 a{
     text-transform: uppercase;
 }
+.drop_down{
+    position: relative;
+    display: inline-block;
+
+}
+.about_teams_content{
+    display: none;
+}
+.vrc_teams{
+    display: none;
+}
+
+.iq_indv_teams{
+    display: none;
+}
+
+.drop_down:hover .about_teams_content {display: block;}
+.vrc_teams__all:hover .vrc_teams {display: block;}
+
+.about_teams_content:hover .iq_indv_teams {display: block;}
