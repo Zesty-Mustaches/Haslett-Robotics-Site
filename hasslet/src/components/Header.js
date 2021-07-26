@@ -32,25 +32,25 @@ const Header = () => {
                     
                     <div class="iq_indv_teams">
                         <a href=".">
-                            <p>10452A</p>
+                            <p>Team Num</p>
                         </a>
                         <a href=".">
-                            <p>10452W</p>
+                            <p>Team Num</p>
                         </a>
                         <a href=".">
-                            <p>10452Q</p>
+                            <p>Team Num</p>
                         </a>
                         <a href=".">
-                            <p>10452</p>
+                            <p>Team Num</p>
                         </a>
                     </div>
                     
                     <div class="vrc_teams">
                         <a href=".">
-                            <p>7684a</p>
+                            <p>Team Num</p>
                         </a>
                         <a href=".">
-                            <p>10452A</p>
+                            <p>Team Num</p>
                         </a>
                     </div>
                     </div>
