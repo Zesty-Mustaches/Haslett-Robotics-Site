@@ -61,6 +61,11 @@ const Header = () => {
                                 <p> Concat </p>
                             </a>
                         </button>
+                        <button class="sponser_btn">
+                            <a href=".">
+                                <p>Sponser</p>
+                            </a>
+                        </button>
                     </div>
                    
                     <div class="join">
